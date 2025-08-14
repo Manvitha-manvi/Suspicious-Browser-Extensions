@@ -31,8 +31,5 @@ No suspicious or unused extensions were found.
 - Regularly reviewing extensions helps prevent malicious software from gaining access to sensitive data.
 - Even trusted extensions should be periodically checked for unusual updates or permissions.
 
-## Interview Preparation Questions
-Refer to the included `INTERVIEW_QUESTIONS.md` for common browser extension security interview Q&A.
-
 ## Screenshots
 Screenshots of installed extensions are available in the `screenshots/` folder for reference.
